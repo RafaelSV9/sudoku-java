@@ -1,5 +1,3 @@
-Aqui está um README.md inicial que você pode colar direto no GitHub e depois ir editando pelo navegador. Ele já está formatado em Markdown e pronto para deixar seu repositório mais profissional.
-
 # 🧩 Sudoku em Java (Terminal)
 
 Este é um jogo de **Sudoku interativo** implementado em **Java**, rodando diretamente no **terminal**.  
